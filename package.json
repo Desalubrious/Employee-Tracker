@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desalubrious/Employee-Tracker.git"
+  },
+  "author": "evan mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desalubrious/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Desalubrious/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.1",
+    "inquirerer": "^0.1.3"
+  }
+}
