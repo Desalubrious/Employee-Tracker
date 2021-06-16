@@ -5,7 +5,7 @@ require('console.table');
 
 const start = async () => {
     const { task } = await prompt({
-        name: 'begin',
+        name: 'task',
         type: 'list',
         message: "What would you like to do?",
         choices: [

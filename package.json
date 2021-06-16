@@ -18,7 +18,6 @@
   "homepage": "https://github.com/Desalubrious/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.1.1",
-    "inquirerer": "^0.1.3"
+    "inquirer": "^8.1.1"
   }
 }
