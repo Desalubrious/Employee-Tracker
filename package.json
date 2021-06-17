@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,10 @@
   "homepage": "https://github.com/Desalubrious/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.1.1"
-  }
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1",
+    "util": "^0.12.4",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {}
 }
